@@ -1,0 +1,2 @@
+Build with visual studio 2013 64 bits
+QT 4.8.6 Dynamic

@@ -1,0 +1,11 @@
+Codigos de ejemplo para usar con los drivers de OmniDrivers usando C++
+Requerimientos:
+Visual Studio C++ >=2005
+Java JDK >= 1.6
+OmniDrivers 2.43 >= (No se ha probado con versiones inferiores)
+
+NOTA: Estan los proyectos para usar con la IDE de visual studio (.sln)
+NOTA2: Estan los proyectos para usar con QT (.pro)
+NOTA3: Para los proyectos con QT, solo cuando se usa QT4 se añade soporte con QtSerialPort en 3rdparty, para versiones >QT5.1 QtSerialPort ya esta incluido
+NOTA4: La version de QtSerial para QT4 que esta en 3rdparty solo esta para 64 bits compilada con visual studio 2013, se debe compilar la biblioteca dependiendo
+       de la version de visual que esten usando.
