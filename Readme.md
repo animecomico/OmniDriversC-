@@ -8,14 +8,18 @@ SpectrometerTest
 ### C++ Pure
 SpectrumTest
 ### Requeriments Omni Drivers SDK Windows
+
+### Project configurations:
 * Java SDK >= 6 ([JDK6], [JDK7], [JDK8])
-* Visual Studio C++ >= 2005
-### Conditions of code test BUILD correctly:
+* Visual Studio C++ >= 2005.
+# Conditions of code test BUILD correctly:
 * Java SDK 6
 * Visual Studio C++ 2013 (32 & 64 bits)
 ### Project configurations:
 * Visual Studio IDE 2013 (.sln)
 * Qt Creator (Support QT4 and QT5 .pro)
+
+
 ### NOTE:
 Default path installations of Java and Omni Drivers was used to create Project configurations on Visual Studio IDE and QtCreator.
 Default paths: 
